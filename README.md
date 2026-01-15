@@ -15,4 +15,4 @@ Le nombre de vm indiqué sera créée. Un dossier ssh_keys sera créée dans le 
 - ram : 2048
 - Disksize: 25GB
 - Network: 1 réseaux NAT pour l'accès internet et un réseaux en réseau privée hote pour le ssh.
-- les utilisateurs sont userx. C'est-à-dire, pour la VM1 le user sera user1 et le password sera user1, ainsi de suite par itération.
+- les utilisateurs sont userx. Pour la VM1 le user sera user1 et le password sera user1, ainsi de suite par itération, ils sont dans le dossier sudo.
